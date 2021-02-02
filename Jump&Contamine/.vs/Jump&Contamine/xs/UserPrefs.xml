@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{BE2AE2B9-C0DC-0BC0-61CA-E4FA7E9F40E4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/screenResolution.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerController.cs" Line="100" Column="1" />
+      <File FileName="Assets/Scripts/cameraController.cs" />
+      <File FileName="Assets/Scripts/putLevels.cs" Line="11" Column="26" />
+      <File FileName="Assets/Scripts/screenResolution.cs" Line="10" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ad7b2a24-2cd8-4cf8-84ad-d9a675c27cb7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
